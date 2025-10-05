@@ -1,3 +1,5 @@
+# This repo is on hiatus, while I decide whether to discontinue this repo or not. 
+
 # LADB Builds
 
 This repository provides compiled builds for LADB, allowing you to access the app without purchasing it from the Play Store. All credit goes to the original developer of the application. I will continue to support and compile new builds over time.
