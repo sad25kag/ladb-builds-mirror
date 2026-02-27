@@ -1,4 +1,5 @@
-# This repo is on hiatus, while I decide whether to discontinue this repo or not. 
+# This repo has been discontinued.
+I do not want to hurt the developer financially in any way. If you want to have it for free, compile it. There are alternatives such as aShell, aShell You which are available on GitHub and F-Droid and will complete your needs as equally as well as LADB.
 
 # LADB Builds
 
